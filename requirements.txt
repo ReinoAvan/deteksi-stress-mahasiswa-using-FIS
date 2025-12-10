@@ -1,4 +1,6 @@
 streamlit
 numpy
-scikit-fuzzy
 matplotlib
+scipy==1.11.4 
+scikit-fuzzy
+setuptools>=65.5.1
